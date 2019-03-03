@@ -47,7 +47,7 @@ questions.push({
         choices4: "Recreate",
         correct: 3,
 });
-questions.push({
+questions.push({ //-
     ques: "What are the 3 R’s of recycling?",
     current: false,
     choices1: "Risk, Reinsurance, Relativity",
@@ -56,7 +56,7 @@ questions.push({
     choices4: "Math, Arithmetic, Algebra",
     correct: 3
 });
-questions.push({
+questions.push({ //--
     ques: "Which is not one of the four recycling categories?",
     current: false,
     choices1: "Chemicals",
@@ -65,7 +65,7 @@ questions.push({
     choices4: "Glass",
     correct: 1
 });
-questions.push({
+questions.push({//-
     ques: "Which is an example of reusing",
     current: false,
     choices1: "Using less napkins when you eat",
@@ -84,7 +84,7 @@ questions.push({
     correct: 1
 });
 
-questions.push({
+questions.push({//-
     ques: "Which is a benefit to reducing landfills?",
     current: false,
     choices1: "More water pollution",
@@ -100,7 +100,7 @@ questions.push({
     choices2: "plastic spoons",
     choices3: "cans",
     choices4: "all of the above",
-    Correct:4
+    correct:4
 });
 questions.push({
     ques: "Which of the following is reducing",
@@ -109,7 +109,7 @@ questions.push({
     choices2: "Putting cans in the recycling bin",
     choices3: "cleaning a ziplock bag",
     choices4: "eating pineapple pizza",
-    Correct:1
+    correct:1
 });
 questions.push({
     ques: "What is sometimes considered the 4th R of recycling",
@@ -118,7 +118,7 @@ questions.push({
     choices2: "Relegating",
     choices3: "Rhinoceros",
     choices4: "Raw potatoes",
-    Correct:1
+    correct:1
 });
 questions.push({
     ques: "Which can’t be recycled",
@@ -127,7 +127,7 @@ questions.push({
     choices2: "Soda cans",
     choices3: "Plastic water bottles",
     choices4: "Paper",
-    Correct:1
+    correct:1
 });
 questions.push({
     ques: "Which of these are an example of recycling",
@@ -136,7 +136,7 @@ questions.push({
     choices2: "Eating rotten eggs",
     choices3: "Using less waste products",
     choices4: "None of the above",
-    Correct:4
+    correct:4
 });
 questions.push({
     ques: "Which is a reason to recycle?",
@@ -145,7 +145,7 @@ questions.push({
     choices2: "Have less landfills",
     choices3: "Create less waste",
     choices4: "All of the above",
-    Correct:4
+    correct:4
 });
 questions.push({
     ques: "Who should recycle",
@@ -154,7 +154,7 @@ questions.push({
     choices2: "Kids",
     choices3: "Everyone",
     choices4: "No one",
-    Correct:3
+    correct:3
 });
 questions.push({
     ques: "Which way you can help your environment?",
@@ -163,7 +163,7 @@ questions.push({
     choices2: "Don’t litter",
     choices3: "Reduce your waste output",
     choices4: "All of the above",
-    Correct:4
+    correct:4
 });
 questions.push({
     ques: "Which of the following is the cleanest energy",
@@ -172,7 +172,7 @@ questions.push({
     choices2: "wind",
     choices3: "oil",
     choices4: "synthetic gas",
-    Correct:2
+    correct:2
 });
 questions.push({
     ques: "Which is a completely clean energy source?",
@@ -181,7 +181,7 @@ questions.push({
     choices2: "Solar power",
     choices3: "Both 1 and 2",
     choices4: "Natural gas",
-    Correct:3
+    correct:3
 });
 questions.push({
     ques: "Which organization helps with recycling",
@@ -190,7 +190,7 @@ questions.push({
     choices2: "Make America Great",
     choices3: "Keep American Clean",
     choices4: "Make America Beautiful",
-    Correct:1
+    correct:1
 });
 questions.push({
     ques: "How can you help your community recycle?",
@@ -199,7 +199,7 @@ questions.push({
     choices2: "Litter",
     choices3: "Go on a diet",
     choices4: "Use the landfill more",
-    Correct:1
+    correct:1
 });
 questions.push({
     ques: "How can you help your community recycle?",
@@ -208,16 +208,16 @@ questions.push({
     choices2: "Litter",
     choices3: "Go on a diet",
     choices4: "Use the landfill more",
-    Correct:1
+    correct:1
 });
 questions.push({
     ques: "How can you help recycle?",
     current: false,
     choices1: "Set up a few local recycling bins",
     choices2: "Write a local blog or website",
-    choices3: "Print recycling messages on recycled paper",
+    choices3: "Print messages on recycled paper",
     choices4: "All fo the above",
-    Correct:4
+    correct:4
 });
 questions.push({
     ques: "Can you raise awareness at City Council Meetings",
@@ -226,18 +226,8 @@ questions.push({
     choices2: "No",
     choices3: "",
     choices4: "",
-    Correct:1
+    correct:1
 });
-questions.push({
-    ques: "What would help people learn about recycling?",
-    current: false,
-    choices1: "An educational flyer or pamphlet",
-    choices2: "A poster stuck at a local school",
-    choices3: "Both 1 and 2",
-    choices4: "",
-    Correct:3
-});
-
 
 questions.push({
     ques: "What would help people learn about recycling?",
@@ -246,7 +236,7 @@ questions.push({
     choices2: "A poster stuck at a local school",
     choices3: "Both 1 and 2",
     choices4: "",
-    Correct:3
+    correct:3
 });
 
 
