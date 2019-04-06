@@ -39,40 +39,40 @@ var correct = false;
 var questionsCorrect = 5;
 
 questions.push({
-    ques: "Re-processing materials to make another product?",
-    current: false,
-    choices1: "Reduce",
-    choices2: "Reuse",
-    choices3: "Recycle",
-    choices4: "Recreate",
-    correct: 3,
+   ques: "What is the best way to limit your debt?",
+   current: false,
+   choices1: "Paying small debts first",
+   choices2: "Never paying debts ",
+   choices3: "Paying large debts first",
+   choices4: "Taking on more debt",
+   correct: 1
 });
 questions.push({ //-
-    ques: "What are the 3 R’s of recycling?",
-    current: false,
-    choices1: "Risk, Reinsurance, Relativity",
-    choices2: "Recycle, Recreate, Represent",
-    choices3: "Reduce, Reuse, Recycle",
-    choices4: "Math, Arithmetic, Algebra",
-    correct: 3
+   ques: "Should you create a budget?",
+   current: false,
+   choices1: "Yes",
+   choices2: "No",
+   choices3: "",
+   choices4: "",
+   correct: 1
 });
 questions.push({ //--
-    ques: "Which is not one of the four recycling categories?",
-    current: false,
-    choices1: "Chemicals",
-    choices2: "Paper",
-    choices3: "Plastic",
-    choices4: "Glass",
-    correct: 1
+   ques: "Which of the following is  the best payment method",
+   current: false,
+   choices1: "Pigeon",
+   choices2: "Cash",
+   choices3: "Check",
+   choices4: "Credit Card",
+   correct: 2
 });
 questions.push({//-
-    ques: "Which is an example of reusing",
-    current: false,
-    choices1: "Using less napkins when you eat",
-    choices2: "Using less water when you shower",
-    choices3: "Washing ziploc bags and using them again",
-    choices4: "putting cans in the recycling bin",
-    correct: 3
+   ques: "Which should NOT be in your budget?",
+   current: false,
+   choices1: "Personal Expenses",
+   choices2: "Rent",
+   choices3: "Debt Payments",
+   choices4: "All of these should be in a budget",
+   correct: 2
 });
 questions.push({
     ques: "Which of the following cannot be recycled?",
