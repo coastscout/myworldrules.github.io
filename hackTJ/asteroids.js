@@ -239,9 +239,151 @@ questions.push({
     correct:3
 });
 
+ questions.push({
+   ques: "What is the best way to limit your debt?",
+   current: false,
+   choices1: "Paying small debts first",
+   choices2: "Never paying debts ",
+   choices3: "Paying large debts first",
+   choices4: "Taking on more debt",
+   correct: 1
+ });
 
+ questions.push({
+   ques: "Should you create a budget?",
+   current: false,
+   choices1: "Yes",
+   choices2: "No",
+   choices3: "",
+   choices4: "",
+   correct: 1
+ });
 
+ questions.push({
+   ques: "Which of the following is  the best payment method",
+   current: false,
+   choices1: "Pigeon",
+   choices2: "Cash",
+   choices3: "Check",
+   choices4: "Credit Card",
+   correct: 2
+ });
 
+ questions.push({
+   ques: "Which should NOT be in your budget?",
+   current: false,
+   choices1: "Personal Expenses",
+   choices2: "Rent",
+   choices3: "Debt Payments",
+   choices4: "All of these should be in a budget",
+   correct: 2
+ });
+ questions.push({
+   ques: "Is a financial aid worth the cost?",
+   current: false,
+   choices1: "Rarely",
+   choices2: "No, never",
+   choices3: "Yes, always",
+   choices4: "Yes, if you are struggling",
+   correct: 4
+ });
+ questions.push({
+   ques: "Should you always trust what a financial assistant says?",   
+   current: false,
+   choices1: "Yes, always",
+   choices2: "No, never",
+   choices3: "Yes, as long as it makes sense", 0
+   choices4: "No, they are actually leprechauns trying to steal your money", 
+   correct: 3
+ });
+
+ questions.push({
+   ques: "How much should you put into savings?",
+   current: false,
+   choices1: "70% of your gross income",
+   choices2: "20% of net income",
+   choices3: "20% of your gross income",
+   choices4: "Whatever is left after personal spendings",
+   correct: 2
+ });
+
+ questions.push({
+   ques: "How much money should you invest?",
+   current: false,
+   choices1: "Your entire savings",
+   choices2: "Begin with a very small amount",
+   choices3: "50% of you income",
+   choices4: "25% of your income",
+   correct: 2
+ });
+
+ questions.push({
+   ques: "When is it okay to be in debt?",
+   current: false,
+   choices1: "Never",
+   choices2: "Always",
+   choices3: "If you cannot afford to pay it off",
+   choices4: "If you want a large loan for a car",
+   correct: 3
+ });
+
+ questions.push({
+   ques: "What is a good way to reach your goals?",
+   current: false,
+   choices1: "",
+   choices2: "",
+   choices3: "",
+   choices4: "",
+   correct: 2
+ });
+
+ questions.push({
+   ques: "Which is the best financial strategy?",
+   current: false,
+   choices1: "Save as much money as you can",
+   choices2: "Spend all your income every month",
+   choices3: "Spend 95% of your monthly income",
+   choices4: "Invest 50% of your income",
+   correct: 1
+ });
+
+ questions.push({
+   ques: "Which is not a necessary purchase?",
+   current: false,
+   choices1: "Clothes",
+   choices2: "Food",
+   choices3: "Water",
+   choices4: "Hulu Plus",
+   correct: 4
+ });
+
+ questions.push({
+   ques: "Are automatic transactions effective?",
+   current: false,
+   choices1: "Yes, they make sure you pay on time",
+   choices2: "No, they are a waste of time",
+   choices3: "No, they cost too much to set up",
+   choices4: "",
+   correct: 1
+ });
+ questions.push({
+   ques: "When is a good time to start investing?",
+   current: false,
+   choices1: "When you turn 50",
+   choices2: "When you buy your first house",
+   choices3: "As soon as possible",
+   choices4: "Never",
+   correct: 3
+ });
+ questions.push({
+   ques: "Why do people invest money?",
+   current: false,
+   choices1: "To make more money",
+   choices2: "Its a safe place to keep money",
+   choices3: "To lose money",
+   choices4: "Very few people invest money",
+   correct: 1             
+ });    
 function gameOver() {
     //   location.reload();
     laser = [];
