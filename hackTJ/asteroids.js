@@ -75,168 +75,87 @@ questions.push({//-
    correct: 2
 });
 questions.push({
-    ques: "Which of the following cannot be recycled?",
-    current: false,
-    choices1: "Styrofoam",
-    choices2: "Bulbs and batteries",
-    choices3: "Paper",
-    choices4: "Plastic",
-    correct: 1
+   ques: "Is a financial aid worth the cost?",
+   current: false,
+   choices1: "Rarely",
+   choices2: "No, never",
+   choices3: "Yes, always",
+   choices4: "Yes, if you are struggling",
+   correct: 4
 });
 
 questions.push({//-
-    ques: "Which is a benefit to reducing landfills?",
-    current: false,
-    choices1: "More water pollution",
-    choices2: "More free land",
-    choices3: "Less jobs",
-    choices4: "All of the above",
-    correct: 2
+   ques: "Should you always trust what a financial assistant says?",
+   current: false,
+   choices1: "Yes, always",
+   choices2: "No, never",
+   choices3: "Yes, as long as it makes sense",
+   choices4: "No, they are actually leprechauns trying to steal your money",
+   correct: 3
 });
 questions.push({
-    ques: "Which can be recycled",
-    current: false,
-    choices1: "soda bottle",
-    choices2: "plastic spoons",
-    choices3: "cans",
-    choices4: "all of the above",
-    correct:4
-});
-questions.push({
-    ques: "Which of the following is reducing",
-    current: false,
-    choices1: "Limiting how much trash you throw away",
-    choices2: "Putting cans in the recycling bin",
-    choices3: "cleaning a ziplock bag",
-    choices4: "eating pineapple pizza",
-    correct:1
-});
-questions.push({
-    ques: "What is sometimes considered the 4th R of recycling",
-    current: false,
-    choices1: "Repurpose",
-    choices2: "Relegating",
-    choices3: "Rhinoceros",
-    choices4: "Raw potatoes",
-    correct:1
-});
-questions.push({
-    ques: "Which can’t be recycled",
-    current: false,
-    choices1: "Shredded Paper",
-    choices2: "Soda cans",
-    choices3: "Plastic water bottles",
-    choices4: "Paper",
-    correct:1
-});
-questions.push({
-    ques: "Which of these are an example of recycling",
-    current: false,
-    choices1: "Placing soda cans in the trash",
-    choices2: "Eating rotten eggs",
-    choices3: "Using less waste products",
-    choices4: "None of the above",
-    correct:4
-});
-questions.push({
-    ques: "Which is a reason to recycle?",
-    current: false,
-    choices1: "Allows us to reuse materials",
-    choices2: "Have less landfills",
-    choices3: "Create less waste",
-    choices4: "All of the above",
-    correct:4
-});
-questions.push({
-    ques: "Who should recycle",
-    current: false,
-    choices1: "Adults",
-    choices2: "Kids",
-    choices3: "Everyone",
-    choices4: "No one",
-    correct:3
-});
-questions.push({
-    ques: "Which way you can help your environment?",
-    current: false,
-    choices1: "Pick up litter",
-    choices2: "Don’t litter",
-    choices3: "Reduce your waste output",
-    choices4: "All of the above",
-    correct:4
-});
-questions.push({
-    ques: "Which of the following is the cleanest energy",
-    current: false,
-    choices1: "natural gas",
-    choices2: "wind",
-    choices3: "oil",
-    choices4: "synthetic gas",
-    correct:2
-});
-questions.push({
-    ques: "Which is a completely clean energy source?",
-    current: false,
-    choices1: "Wind power",
-    choices2: "Solar power",
-    choices3: "Both 1 and 2",
-    choices4: "Natural gas",
-    correct:3
-});
-questions.push({
-    ques: "Which organization helps with recycling",
-    current: false,
-    choices1: "Keep America Beautiful",
-    choices2: "Make America Great",
-    choices3: "Keep American Clean",
-    choices4: "Make America Beautiful",
-    correct:1
-});
-questions.push({
-    ques: "How can you help your community recycle?",
-    current: false,
-    choices1: "Advertise a local recycling center",
-    choices2: "Litter",
-    choices3: "Go on a diet",
-    choices4: "Use the landfill more",
-    correct:1
-});
-questions.push({
-    ques: "How can you help your community recycle?",
-    current: false,
-    choices1: "Advertise a local recycling center",
-    choices2: "Litter",
-    choices3: "Go on a diet",
-    choices4: "Use the landfill more",
-    correct:1
-});
-questions.push({
-    ques: "How can you help recycle?",
-    current: false,
-    choices1: "Set up a few local recycling bins",
-    choices2: "Write a local blog or website",
-    choices3: "Print messages on recycled paper",
-    choices4: "All fo the above",
-    correct:4
-});
-questions.push({
-    ques: "Can you raise awareness at City Council Meetings",
-    current: false,
-    choices1: "Yes",
-    choices2: "No",
-    choices3: "",
-    choices4: "",
-    correct:1
-});
+      ques: "How much should you put into savings?",
+   current: false,
+   choices1: "70% of your gross income",
+   choices2: "20% of net income",
+   choices3: "20% of your gross income",
+   choices4: "Whatever is left after personal spendings",
+   correct: 2
 
+});
 questions.push({
-    ques: "What would help people learn about recycling?",
-    current: false,
-    choices1: "An educational flyer or pamphlet",
-    choices2: "A poster stuck at a local school",
-    choices3: "Both 1 and 2",
-    choices4: "",
-    correct:3
+ques: "How much money should you invest?",
+   current: false,
+   choices1: "Your entire savings",
+   choices2: "Begin with a very small amount",
+   choices3: "50% of you income",
+   choices4: "25% of your income",
+   correct: 2
+});
+questions.push({
+   ques: "When is it okay to be in debt?",
+   current: false,
+   choices1: "Never",
+   choices2: "Always",
+   choices3: "If you cannot afford to pay it off",
+   choices4: "If you want a large loan for a car",
+   correct: 3
+});
+questions.push({
+   ques: "What is a good way to reach your goals?",
+   current: false,
+   choices1: "",
+   choices2: "Begin with a very small amount",
+   choices3: "50% of you income",
+   choices4: "25% of your income",
+   correct: 2
+});
+questions.push({
+   ques: "Which is the best financial strategy?",
+   current: false,
+   choices1: "Save as much money as you can",
+   choices2: "Spend all your income every month",
+   choices3: "Spend 95% of your monthly income",
+   choices4: "Invest 50% of your income",
+   correct: 1
+});
+questions.push({
+   ques: "Which is not a necessary purchase",
+   current: false,
+   choices1: "Clothes",
+   choices2: "Food",
+   choices3: "Water",
+   choices4: "Hulu Plus",
+   correct: 4
+});
+questions.push({
+   ques: "Are automatic transactions effective",
+   current: false,
+   choices1: "Yes, they make sure you pay on time",
+   choices2: "No, they are a waste of time",
+   choices3: "No, they cost too much to set up",
+   choices4: "",
+   correct: 1
 });
 
 
