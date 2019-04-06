@@ -23,7 +23,7 @@ var laserHeight = 10;
 
 //Enemy
 var enemy = new Image();
-enemy.src = "images/bag.png";
+enemy.src = "images/alien.png";
 var enemys = [];
 var enemySpeed = 5;
 var score = 0;
@@ -39,13 +39,13 @@ var correct = false;
 var questionsCorrect = 5;
 
 questions.push({
-        ques: "Re-processing materials to make another product?",
-        current: false,
-        choices1: "Reduce",
-        choices2: "Reuse",
-        choices3: "Recycle",
-        choices4: "Recreate",
-        correct: 3,
+    ques: "Re-processing materials to make another product?",
+    current: false,
+    choices1: "Reduce",
+    choices2: "Reuse",
+    choices3: "Recycle",
+    choices4: "Recreate",
+    correct: 3,
 });
 questions.push({ //-
     ques: "What are the 3 R’s of recycling?",
@@ -639,4 +639,5 @@ function dKey() { //68
         safe: true,
     });
 }
+
 
