@@ -3,7 +3,7 @@ var ctx = cvs.getContext("2d");
 
 //Load in images
 var character = new Image();
-character.src = "images/hoo.png";
+character.src = "images/character.png";
 
 var gameOverImage = new Image();
 gameOverImage.src = "images/gameOver.png";
